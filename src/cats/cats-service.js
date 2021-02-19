@@ -12,6 +12,10 @@ const catsService = {
   fetchCat() {
     return cats.show();
   },
+  adoptCat() {
+    cats.dequeue();
+    return cats
+  }
 };
 
 module.exports = catsService;

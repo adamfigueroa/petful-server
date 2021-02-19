@@ -12,6 +12,10 @@ const dogsService = {
   fetchDog() {
     return dogs.show();
   },
+  adoptDog() {
+    dogs.dequeue();
+    return dogs
+  }
 };
 
 module.exports = dogsService;
