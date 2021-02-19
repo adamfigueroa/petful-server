@@ -4,6 +4,7 @@ const config = require('../config');
 const morgan = require('morgan');
 const dogsRouter = require('../dogs/dogs-router')
 const catsRouter = require('../cats/cats-router')
+const peopleRouter = require('../people/people-router')
 
 const app = express();
 
@@ -21,5 +22,6 @@ app.use(
 
 app.use('/api/cats', catsRouter);
 app.use('/api/dogs', dogsRouter);
+app.use('/api/people', peopleRouter);
 
 module.exports = app;
