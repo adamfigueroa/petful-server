@@ -43,11 +43,11 @@ This API returns the following status codes:
 
 ### Technology Used
 
-Node.js
-Express
+- Node.js
+- Express
 
 #### To install locally
 
-Clone the github repo to your machine.
-Run 'npm install' in git
-Run 'npm start'
+- Clone the github repo to your machine.
+- Run 'npm install' in git
+- Run 'npm start'
