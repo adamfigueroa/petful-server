@@ -8,8 +8,8 @@ module.exports = {
   dogs: [
     {
       age: 3,
-      breed: 'Golden Retriever',
-      description: 'A smiling golden-brown golden retreiver listening to music.',
+      breed: 'Maltese',
+      description: 'A young maltese playing in the yard.',
       gender: 'Male',
       imageURL: 'https://images.pexels.com/photos/33053/dog-young-dog-small-dog-maltese.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       name: 'Zim',
@@ -18,7 +18,7 @@ module.exports = {
 
     {
       age: 3,
-      breed: 'Akita',
+      breed: 'Irish Setter',
       description: 'A smiling golden-brown dog',
       gender: 'Female',
       imageURL: 'https://images.pexels.com/photos/1254140/pexels-photo-1254140.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
@@ -28,11 +28,11 @@ module.exports = {
 
     {
       imageURL: 'https://images.pexels.com/photos/160846/french-bulldog-summer-smile-joy-160846.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
-      description: 'Black pug.',
+      description: 'A smiling french bulldog.',
       name: 'Bilbo',
       gender: 'Male',
       age: 3,
-      breed: 'Pug',
+      breed: 'French Bulldog',
       story: 'Owner Passed away'
     },
 
@@ -41,7 +41,7 @@ module.exports = {
       breed: 'Collie',
       description: 'Border collie.',
       gender: 'Male',
-      imageURL: 'https://images.pexels.com/photos/733416/pexels-photo-733416.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+      imageURL: 'https://images.pexels.com/photos/551628/pexels-photo-551628.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       name: 'Philip',
       story: 'Owner Passed away'
     },
@@ -57,11 +57,11 @@ module.exports = {
     },
 
     {
-      imageURL: 'https://images.pexels.com/photos/551628/pexels-photo-551628.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
-      description: 'A smiling golden-brown golden retreiver listening to music.',
+      imageURL: 'https://images.pexels.com/photos/257540/pexels-photo-257540.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+      description: 'A smiling golden-brown golden retriever laying down.',
       name: 'Zeke',
       gender: 'Male',
-      age: 3,
+      age: 1,
       breed: 'Golden Retriever',
       story: 'Owner Passed away'
     },
@@ -69,7 +69,7 @@ module.exports = {
     {
       age: 3,
       breed: 'Golden Retriever',
-      description: 'A smiling golden-brown golden retreiver listening to music.',
+      description: 'A smiling golden-brown golden retriever listening to music.',
       gender: 'Male',
       imageURL: 'https://images.pexels.com/photos/1490908/pexels-photo-1490908.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
       name: 'Sam',
@@ -79,7 +79,7 @@ module.exports = {
     {
       age: 3,
       breed: 'Fluffy Dog',
-      description: 'Australian sheppard',
+      description: 'Australian shepard',
       gender: 'Female',
       imageURL: 'https://images.pexels.com/photos/1322182/pexels-photo-1322182.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
       name: 'Smelly',
@@ -88,10 +88,10 @@ module.exports = {
 
     {
       age: 3,
-      breed: 'Terrier',
-      description: 'terrier',
+      breed: 'American Bulldog',
+      description: 'A stoic grey dog looking at the camera',
       gender: 'Male',
-      imageURL: 'https://images.pexels.com/photos/257540/pexels-photo-257540.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+      imageURL: 'https://images.pexels.com/photos/733416/pexels-photo-733416.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       name: 'Tiny',
       story: 'Found downtown'
     },
@@ -108,8 +108,8 @@ module.exports = {
 
     {
       age: 3,
-      breed: 'Boxer',
-      description: 'boxer dog',
+      breed: 'mixed',
+      description: 'Cool dog wearing sunglasses',
       gender: 'Male',
       imageURL: 'https://images.pexels.com/photos/1629781/pexels-photo-1629781.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       name: 'Tim',
@@ -121,26 +121,26 @@ module.exports = {
     {
       age: 2,
       breed: 'Bengal',
-      description: 'Orange bengal cat with black stripes lounging on concrete.',
+      description: 'Bengal cat with black stripes lounging on concrete.',
       gender: 'Female',
-      imageURL:'https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
+      imageURL:'https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       name: 'Steve French',
       story: 'Thrown on the street'
     },
 
     {
       age: 2,
-      breed: 'white cat',
-      description: 'White cat',
+      breed: 'White Cat',
+      description: 'White and grey cat',
       gender: 'Female',
-      imageURL:'https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
+      imageURL:'https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       name: 'Snapjacks',
       story: 'Thrown on the street'
     },
 
     {
       age: 2,
-      breed: 'Bengal',
+      breed: 'Grey cat',
       description: 'Grey cat',
       gender: 'Female',
       imageURL:'https://images.pexels.com/photos/730896/pexels-photo-730896.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
@@ -151,7 +151,7 @@ module.exports = {
     {
       age: 2,
       breed: 'Bengal',
-      description: 'Orange cat',
+      description: 'Orange cat being her best self',
       gender: 'Female',
       imageURL:'https://images.pexels.com/photos/57416/cat-sweet-kitty-animals-57416.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Garry Lazereyes',
@@ -160,7 +160,7 @@ module.exports = {
     {
       age: 2,
       breed: 'Bengal',
-      description: 'Grey cat',
+      description: 'Striped cat',
       gender: 'Male',
       imageURL:'https://images.pexels.com/photos/126407/pexels-photo-126407.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Neapolitan Charlie',
@@ -169,8 +169,8 @@ module.exports = {
 
     {
       age: 2,
-      breed: 'Tabby',
-      description: 'Orange bengal cat with black stripes lounging on concrete.',
+      breed: 'Persian',
+      description: 'Grey Persian cat begging for food.',
       gender: 'Female',
       imageURL:'https://images.pexels.com/photos/774731/pexels-photo-774731.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Daisy',
@@ -179,8 +179,8 @@ module.exports = {
 
     {
       age: 2,
-      breed: 'Bengal',
-      description: 'Brown kitty',
+      breed: 'Gret cat',
+      description: 'grey and white cat',
       gender: 'Female',
       imageURL:'https://images.pexels.com/photos/1543793/pexels-photo-1543793.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Stinkster',
@@ -199,7 +199,7 @@ module.exports = {
 
     {
       age: 2,
-      breed: 'Tabby',
+      breed: 'Persian',
       description: 'grey cat',
       gender: 'Male',
       imageURL:'https://images.pexels.com/photos/54632/cat-animal-eyes-grey-54632.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', 
@@ -209,8 +209,8 @@ module.exports = {
 
     {
       age: 2,
-      breed: 'Tabby',
-      description: 'grey cat',
+      breed: 'Bengal',
+      description: 'striped cat',
       gender: 'Male',
       imageURL:'https://images.pexels.com/photos/923360/pexels-photo-923360.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500', 
       name: 'Spike',
@@ -218,12 +218,12 @@ module.exports = {
     },
 
     {
-      age: 3,
-      breed: 'Tabby',
-      description: 'boxer dog',
+      age: 1,
+      breed: 'Grey and white cat',
+      description: 'Grey and white cat sniffing flower',
       gender: 'Male',
       imageURL: 'https://images.pexels.com/photos/1472999/pexels-photo-1472999.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
-      name: 'Vince the Pince',
+      name: 'Vince the Prince',
       story: 'Found in neighborhood'
     }
   ]
