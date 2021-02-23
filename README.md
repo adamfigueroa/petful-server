@@ -1,9 +1,9 @@
 # Petful API | Node.js/Express
 
-Live Link to API: https://petful-server-challenge.herokuapp.com/
+- Live Link to API: https://petful-server-challenge.herokuapp.com/
 
-Link to front end client: https://petful-client-beige-three.vercel.app/
-Link to front end client Repo: https://github.com/adamfigueroa/petful-client
+- Link to front end client: https://petful-client-beige-three.vercel.app/
+- Link to front end client Repo: https://github.com/adamfigueroa/petful-client
 
 
 
